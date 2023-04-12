@@ -33,4 +33,4 @@ spec:
   volumes:
   - name: db-vol1
     persistentVolumeClaim:
-      claimName: ebs-mysql-pv-claim
+      claimName: ebs-mysql-pv-claim 
